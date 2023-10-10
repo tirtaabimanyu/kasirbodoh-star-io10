@@ -1,7 +1,7 @@
 {
-  "name": "kasirbodoh-star-io10",
-  "version": "1.3.1",
-  "description": "kasirbodoh-star-io10 is a library for supporting application development for Star Micronics devices.",
+  "name": "kasirpop-star-io10",
+  "version": "1.3.0",
+  "description": "kasirpop-star-io10 is a library for supporting application development for Star Micronics devices.",
   "main": "index.ts",
   "types": "index.d.ts",
   "scripts": {
@@ -9,8 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tirtaabimanyu/kasirbodoh-star-io10.git",
-    "baseUrl": "https://github.com/tirtaabimanyu/kasirbodoh-star-io10"
+    "url": "git+https://github.com/tirtaabimanyu/kasirpop-star-io10.git",
+    "baseUrl": "https://github.com/tirtaabimanyu/kasirpop-star-io10"
   },
   "keywords": [
     "typescript",
@@ -28,9 +28,9 @@
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/tirtaabimanyu/kasirbodoh-star-io10/issues"
+    "url": "https://github.com/tirtaabimanyu/kasirpop-star-io10/issues"
   },
-  "homepage": "https://github.com/tirtaabimanyu/kasirbodoh-star-io10",
+  "homepage": "https://github.com/tirtaabimanyu/kasirpop-star-io10",
   "peerDependencies": {
     "@types/react-native": "^0.71.3",
     "react": "^18.2.0",
