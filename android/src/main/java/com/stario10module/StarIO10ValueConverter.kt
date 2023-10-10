@@ -45,7 +45,6 @@ class StarIO10ValueConverter {
 
         private val interfaceTypeMap = mapOf(
             "Bluetooth" to InterfaceType.Bluetooth,
-            "BluetoothLE" to InterfaceType.BluetoothLE,
             "Lan" to InterfaceType.Lan,
             "Usb" to InterfaceType.Usb
         )
@@ -88,10 +87,7 @@ class StarIO10ValueConverter {
             "SM_T400i" to StarPrinterModel.SM_T400i,
             "SM_L200" to StarPrinterModel.SM_L200,
             "SM_L300" to StarPrinterModel.SM_L300,
-            "BSC10" to StarPrinterModel.BSC10,
-            "TSP043" to StarPrinterModel.TSP043,
             "SP700" to StarPrinterModel.SP700,
-            "TUP500" to StarPrinterModel.TUP500,
             "SK1_2xx" to StarPrinterModel.SK1_2xx,
             "SK1_3xx" to StarPrinterModel.SK1_3xx
         )
